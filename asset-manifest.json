@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/radiancephotography/static/css/main.8c324101.css",
-    "main.js": "/radiancephotography/static/js/main.39af579f.js",
+    "main.css": "/radiancephotography/static/css/main.e96378b9.css",
+    "main.js": "/radiancephotography/static/js/main.bba5d793.js",
     "static/media/emergebg.jpg": "/radiancephotography/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
     "static/media/CIVISTAbg.jpg": "/radiancephotography/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
     "static/media/MECHAURAbg.jpg": "/radiancephotography/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
     "static/media/RADIANCEbg.jpg": "/radiancephotography/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
     "index.html": "/radiancephotography/index.html",
-    "main.8c324101.css.map": "/radiancephotography/static/css/main.8c324101.css.map",
-    "main.39af579f.js.map": "/radiancephotography/static/js/main.39af579f.js.map"
+    "main.e96378b9.css.map": "/radiancephotography/static/css/main.e96378b9.css.map",
+    "main.bba5d793.js.map": "/radiancephotography/static/js/main.bba5d793.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c324101.css",
-    "static/js/main.39af579f.js"
+    "static/css/main.e96378b9.css",
+    "static/js/main.bba5d793.js"
   ]
 }
